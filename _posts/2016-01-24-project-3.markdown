@@ -1,0 +1,15 @@
+---
+title: CO2miniデータ取得
+subtitle: USB ドライバ
+layout: default
+modal-id: 3
+date: 2016-01-24
+img: co2mini.png
+thumbnail: co2mini-thumb.png
+alt: image-alt
+project-date: Jan 2016
+client: 自社開発
+category: ドライバ開発
+description: CO2mini というセンサーをUSBデバイスとして認識するための仕組みです。https://github.com/kurain/co2mini
+
+---

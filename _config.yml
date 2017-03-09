@@ -1,0 +1,35 @@
+url: https://y7kim.github.io
+baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: Kurai System LLC.
+email: ryu.kurai@gmail.com
+description: "Webアプリケーションソフトウェア開発の合同会社クライシステム"
+
+
+# Team names, titles and social links
+people:
+- name: 倉井 龍太郎
+  pic: 1
+  position: 代表社員
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# social:
+#   - title: twitter
+#     url: http://twitter.com/jekyllrb
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 530-0001 大阪市北区梅田１丁目11番4号
+  - line: 大阪駅前第４ビル9階923-1155号
+
+# Build settings
+markdown: kramdown
+permalink: pretty

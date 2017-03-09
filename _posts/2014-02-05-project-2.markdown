@@ -1,0 +1,14 @@
+---
+title: Live Clip
+subtitle: Chrome アプリ
+layout: default
+modal-id: 2
+date: 2014-02-05
+img: liveclip.png
+thumbnail: liveclip-thumb.png
+alt: image-alt
+project-date: Jan 2014
+client: 自社開発
+category: ブラウザ拡張
+description: Chrome で開いている Web Site の好きな部分を、フチ無しのPopup Window で表示できるという Chrome App です
+---

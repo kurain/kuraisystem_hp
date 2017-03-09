@@ -1,0 +1,14 @@
+---
+title: AAReadable
+subtitle: Chrome拡張
+layout: default
+modal-id: 1
+date: 2011-06-07
+img: aareadable.png
+thumbnail: aareadable-thumb.png
+alt: image-alt
+project-date: June 2011
+client: 自社開発
+category: ブラウザ拡張
+description: ブラウザで開いているページあるいは、選択している部分のフォントを変更してアスキーアートを見やすくする拡張です。フォントを別途インストールする必要が無いところと、閲覧中のページに適切なCSSが無くても動くとこなんかがポイントです。
+---

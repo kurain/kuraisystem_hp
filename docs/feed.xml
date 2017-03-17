@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kurai System LLC.</title>
+    <description>Webアプリケーションソフトウェア開発の合同会社クライシステム</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 17 Mar 2017 19:49:37 +0900</pubDate>
+    <lastBuildDate>Fri, 17 Mar 2017 19:49:37 +0900</lastBuildDate>
+    <generator>Jekyll v3.4.2</generator>
+    
+      <item>
+        <title>CO2miniデータ取得</title>
+        <description>
+</description>
+        <pubDate>Sun, 24 Jan 2016 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E9%96%8B%E7%99%BA/2016/01/24/project-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E9%96%8B%E7%99%BA/2016/01/24/project-3/</guid>
+        
+        
+        <category>ドライバ開発</category>
+        
+      </item>
+    
+      <item>
+        <title>Live Clip</title>
+        <description>
+</description>
+        <pubDate>Wed, 05 Feb 2014 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6%E6%8B%A1%E5%BC%B5/2014/02/05/project-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6%E6%8B%A1%E5%BC%B5/2014/02/05/project-2/</guid>
+        
+        
+        <category>ブラウザ拡張</category>
+        
+      </item>
+    
+      <item>
+        <title>AAReadable</title>
+        <description>
+</description>
+        <pubDate>Tue, 07 Jun 2011 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6%E6%8B%A1%E5%BC%B5/2011/06/07/project-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6%E6%8B%A1%E5%BC%B5/2011/06/07/project-1/</guid>
+        
+        
+        <category>ブラウザ拡張</category>
+        
+      </item>
+    
+  </channel>
+</rss>
